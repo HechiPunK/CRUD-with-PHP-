@@ -1,0 +1,12 @@
+.dataTables_filter {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+}
+.btn-action {
+    margin-right: 5px;
+} 
+
+
+
